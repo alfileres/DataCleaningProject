@@ -17,3 +17,4 @@ The following transformations where performed:
 - The activity identifier was replaced by the corresponding activity label as specified in the file `activity_labels.txt`
 - a new data frame "tidy" has been created by averaging all variables grouped by activity and subject
 - "tidy" is the output of the process
+- the units of the retained variables in the tidy results are the same as in the original dataset. The data has been transformed to compute the average grouped by activity and subject. The averaged measurements are in the same units.
