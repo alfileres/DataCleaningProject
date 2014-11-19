@@ -10,5 +10,8 @@ it also assumes that the library `dplyr` is installed in R
 - source it in R: source("run_analysis.R")
 - call it or assign it to a variable. e.g. tidy <- run_analysis()
 
+## How it works
+Just check the Code Book for details
+
 
 
